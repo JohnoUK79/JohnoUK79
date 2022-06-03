@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JohnoUK79
 - 👀 I’m interested in learning to code (hobby)
-- 🌱 I’m currently learning python and JavaScript 
+- 🌱 I’m currently learning JavaScript 
 - 💞️ I’m looking to collaborate on my own work 
 - 📫 How to reach me on discord Dekes#1470
 
